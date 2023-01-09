@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/newkranti/static/css/main.b3eeeea7.css",
+    "main.js": "/newkranti/static/js/main.e19f1c04.js",
+    "index.html": "/newkranti/index.html",
+    "main.b3eeeea7.css.map": "/newkranti/static/css/main.b3eeeea7.css.map",
+    "main.e19f1c04.js.map": "/newkranti/static/js/main.e19f1c04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3eeeea7.css",
+    "static/js/main.e19f1c04.js"
+  ]
+}
